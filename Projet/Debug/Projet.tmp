@@ -1,0 +1,196 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m128def.inc</FILE>
+  <FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\macros.asm</FILE>
+  <FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\definitions.asm</FILE>
+  <FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\encoder.asm</FILE>
+  <FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE>
+  <FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\distance.asm</FILE>
+  <FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\graph.asm</FILE>
+  <FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\led_macros.asm</FILE>
+  <FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\ws2812b_4MHz.asm</FILE>
+  <FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE>
+  <FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\Debug\Projet.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Projet.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Projet.map</FILE>
+  <FILE>Projet.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>159</LINE></reset>
+  <int0_sri><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>34</LINE></int0_sri>
+  <int1_sri><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>39</LINE></int1_sri>
+  <int2_sri><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>44</LINE></int2_sri>
+  <int3_sri><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>49</LINE></int3_sri>
+  <tim0_ovf><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>58</LINE></tim0_ovf>
+  <ADCCaddr_sra><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>54</LINE></ADCCaddr_sra>
+  <mode><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>25</LINE></mode>
+  <break_menu_loop><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>36</LINE></break_menu_loop>
+  <change_mode><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>26</LINE></change_mode>
+  <b0_temp><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>11</LINE></b0_temp>
+  <h22><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>69</LINE></h22>
+  <h23><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>70</LINE></h23>
+  <h21><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>68</LINE></h21>
+  <h20><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>67</LINE></h20>
+  <h19><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>66</LINE></h19>
+  <h18><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>65</LINE></h18>
+  <h17><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>64</LINE></h17>
+  <h16><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>63</LINE></h16>
+  <h15><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>60</LINE></h15>
+  <h14><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>59</LINE></h14>
+  <h13><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>58</LINE></h13>
+  <h12><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>57</LINE></h12>
+  <h11><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>56</LINE></h11>
+  <h10><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>55</LINE></h10>
+  <h9><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>54</LINE></h9>
+  <h8><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>53</LINE></h8>
+  <frequency><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>21</LINE></frequency>
+  <last_frequency><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>22</LINE></last_frequency>
+  <counter><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>20</LINE></counter>
+  <store><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>111</LINE></store>
+  <adcl_temp><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>9</LINE></adcl_temp>
+  <adch_temp><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>10</LINE></adch_temp>
+  <zl_led><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>13</LINE></zl_led>
+  <zh_led><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>14</LINE></zh_led>
+  <zl_graph><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>16</LINE></zl_graph>
+  <zh_graph><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>17</LINE></zh_graph>
+  <height><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>29</LINE></height>
+  <graph_start><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>30</LINE></graph_start>
+  <nb_column><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>31</LINE></nb_column>
+  <hold><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>35</LINE></hold>
+  <neg_flag><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>37</LINE></neg_flag>
+  <show_negative_flag><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>38</LINE></show_negative_flag>
+  <left_flag><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>39</LINE></left_flag>
+  <right_flag><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>40</LINE></right_flag>
+  <h0><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>43</LINE></h0>
+  <h1><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>44</LINE></h1>
+  <h2><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>45</LINE></h2>
+  <h3><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>46</LINE></h3>
+  <h4><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>47</LINE></h4>
+  <h5><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>48</LINE></h5>
+  <h6><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>49</LINE></h6>
+  <h7><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\variables.asm</FILE><LINE>50</LINE></h7>
+  <enc_old><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\encoder.asm</FILE><LINE>10</LINE></enc_old>
+  <rotation_right><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\encoder.asm</FILE><LINE>14</LINE></rotation_right>
+  <rotation_left><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\encoder.asm</FILE><LINE>21</LINE></rotation_left>
+  <encoder_init><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\encoder.asm</FILE><LINE>28</LINE></encoder_init>
+  <encoder><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\encoder.asm</FILE><LINE>37</LINE></encoder>
+  <encoder_button><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\encoder.asm</FILE><LINE>95</LINE></encoder_button>
+  <i_down><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\encoder.asm</FILE><LINE>79</LINE></i_down>
+  <i_up><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\encoder.asm</FILE><LINE>63</LINE></i_up>
+  <a_rise><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\encoder.asm</FILE><LINE>71</LINE></a_rise>
+  <a_fall><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\encoder.asm</FILE><LINE>66</LINE></a_fall>
+  <i_up_done><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\encoder.asm</FILE><LINE>75</LINE></i_up_done>
+  <a_rise2><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\encoder.asm</FILE><LINE>87</LINE></a_rise2>
+  <a_fall2><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\encoder.asm</FILE><LINE>82</LINE></a_fall2>
+  <i_down_done><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\encoder.asm</FILE><LINE>91</LINE></i_down_done>
+  <i_rise><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\encoder.asm</FILE><LINE>101</LINE></i_rise>
+  <i_fall><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\encoder.asm</FILE><LINE>98</LINE></i_fall>
+  <LCD_init><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>47</LINE></LCD_init>
+  <LCD_clear><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>36</LINE></LCD_clear>
+  <LCD_home><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>37</LINE></LCD_home>
+  <menu><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>180</LINE></menu>
+  <menu_init><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>181</LINE></menu_init>
+  <menu_loop><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>201</LINE></menu_loop>
+  <check_right><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>216</LINE></check_right>
+  <shift_left><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\graph.asm</FILE><LINE>113</LINE></shift_left>
+  <graph_display><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>228</LINE></graph_display>
+  <shift_right><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\graph.asm</FILE><LINE>172</LINE></shift_right>
+  <mode_display><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>236</LINE></mode_display>
+  <ws2812b4_byte3wr><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\ws2812b_4MHz.asm</FILE><LINE>58</LINE></ws2812b4_byte3wr>
+  <ws2b3_starta0><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\ws2812b_4MHz.asm</FILE><LINE>61</LINE></ws2b3_starta0>
+  <ws2b3w1><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\ws2812b_4MHz.asm</FILE><LINE>66</LINE></ws2b3w1>
+  <ws2b3_nexta0><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\ws2812b_4MHz.asm</FILE><LINE>68</LINE></ws2b3_nexta0>
+  <ws2b3_starta1><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\ws2812b_4MHz.asm</FILE><LINE>74</LINE></ws2b3_starta1>
+  <ws2b3w1a1><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\ws2812b_4MHz.asm</FILE><LINE>79</LINE></ws2b3w1a1>
+  <ws2b3_nexta1><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\ws2812b_4MHz.asm</FILE><LINE>81</LINE></ws2b3_nexta1>
+  <ws2b3_starta2><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\ws2812b_4MHz.asm</FILE><LINE>87</LINE></ws2b3_starta2>
+  <ws2b3w1a2><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\ws2812b_4MHz.asm</FILE><LINE>92</LINE></ws2b3w1a2>
+  <ws2b3_nexta2><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\ws2812b_4MHz.asm</FILE><LINE>94</LINE></ws2b3_nexta2>
+  <ws2812b4_reset><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\ws2812b_4MHz.asm</FILE><LINE>103</LINE></ws2812b4_reset>
+  <LCD_wr_ir><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>10</LINE></LCD_wr_ir>
+  <lcd_4us><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>18</LINE></lcd_4us>
+  <lcd_2us><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>20</LINE></lcd_2us>
+  <LCD><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>24</LINE></LCD>
+  <LCD_putc><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>25</LINE></LCD_putc>
+  <LCD_cr><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>61</LINE></LCD_cr>
+  <LCD_lf><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>71</LINE></LCD_lf>
+  <LCD_wr_dr><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>28</LINE></LCD_wr_dr>
+  <LCD_cursor_left><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>38</LINE></LCD_cursor_left>
+  <LCD_cursor_right><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>39</LINE></LCD_cursor_right>
+  <LCD_display_left><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>40</LINE></LCD_display_left>
+  <LCD_display_right><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>41</LINE></LCD_display_right>
+  <LCD_blink_on><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>42</LINE></LCD_blink_on>
+  <LCD_blink_off><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>43</LINE></LCD_blink_off>
+  <LCD_cursor_on><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>44</LINE></LCD_cursor_on>
+  <LCD_cursor_off><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>45</LINE></LCD_cursor_off>
+  <LCD_pos><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\lcd.asm</FILE><LINE>55</LINE></LCD_pos>
+  <_printf><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>138</LINE></_printf>
+  <_printf_read><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>143</LINE></_printf_read>
+  <_printf_end><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>153</LINE></_printf_end>
+  <_printf_formatted><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>159</LINE></_printf_formatted>
+  <_putw><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>195</LINE></_putw>
+  <rio_space><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>177</LINE></rio_space>
+  <dataram_space><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>174</LINE></dataram_space>
+  <space_detect_end><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>179</LINE></space_detect_end>
+  <_putchar><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>204</LINE></_putchar>
+  <_putstr><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>212</LINE></_putstr>
+  <_putnum><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>224</LINE></_putnum>
+  <_putdec><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>240</LINE></_putdec>
+  <_putbin><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>256</LINE></_putbin>
+  <_puthex><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>262</LINE></_puthex>
+  <_putfrac><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>279</LINE></_putfrac>
+  <_getnum><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>295</LINE></_getnum>
+  <_getdig><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>267</LINE></_getdig>
+  <_printf_4b><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>319</LINE></_printf_4b>
+  <_printf_3b><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>314</LINE></_printf_3b>
+  <_printf_2b><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>309</LINE></_printf_2b>
+  <_printf_1b><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>304</LINE></_printf_1b>
+  <_ftoa><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>338</LINE></_ftoa>
+  <_ftoa_plus><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>352</LINE></_ftoa_plus>
+  <_ftoa_int><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>359</LINE></_ftoa_int>
+  <_ftoa_shift><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>355</LINE></_ftoa_shift>
+  <_ftoa_int1><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>366</LINE></_ftoa_int1>
+  <_div41><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>450</LINE></_div41>
+  <_hex2asc><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>416</LINE></_hex2asc>
+  <_ftoa_space><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>377</LINE></_ftoa_space>
+  <_ftoa_sign><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>385</LINE></_ftoa_sign>
+  <_ftoa_int3><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>389</LINE></_ftoa_int3>
+  <_ftoa_end><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>409</LINE></_ftoa_end>
+  <_ftoa_point><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>400</LINE></_ftoa_point>
+  <_ftoa_frac><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>403</LINE></_ftoa_frac>
+  <_mul41><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>434</LINE></_mul41>
+  <__m41><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>436</LINE></__m41>
+  <__d41><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\printf.asm</FILE><LINE>452</LINE></__d41>
+  <show_acc><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>256</LINE></show_acc>
+  <show_speed><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>250</LINE></show_speed>
+  <end_menu_loop><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>261</LINE></end_menu_loop>
+  <main><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>285</LINE></main>
+  <detect><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>297</LINE></detect>
+  <no_detect><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>317</LINE></no_detect>
+  <inc_counter><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>304</LINE></inc_counter>
+  <main_end><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>366</LINE></main_end>
+  <release><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>312</LINE></release>
+  <load_height><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>328</LINE></load_height>
+  <load_mode><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>339</LINE></load_mode>
+  <show_negative><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>334</LINE></show_negative>
+  <speed><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>351</LINE></speed>
+  <acceleration_negative><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>361</LINE></acceleration_negative>
+  <acceleration_positive><FILE>C:\Users\Christian SK M\Documents\Christian\EPFL\BA4\Microcontrolleurs\5-Projet\Projet\Projet\main.asm</FILE><LINE>356</LINE></acceleration_positive>
+ </LABELS>
+</ASSEMBLER_INFO>
